@@ -60,11 +60,9 @@ Sistem `app.py` üzerinden çalıştırıldığında interaktif bir Dashboard su
 ## 🛠️ Kurulum
 
 ```bash
-# 1. Depoyu klonlayın
-git clone [https://github.com/KULLANICI_ADINIZ/Financial-Fraud-Detection.git](https://github.com/KULLANICI_ADINIZ/Financial-Fraud-Detection.git)
 
-# 2. Gereksinimleri yükleyin
+# 1. Gereksinimleri yükleyin
 pip install -r requirements.txt
 
-# 3. Uygulamayı başlatın
+# 2. Uygulamayı başlatın
 streamlit run app.py
