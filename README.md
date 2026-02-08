@@ -1,6 +1,5 @@
 # 🛡️ Bank-Level Financial Fraud Detection System (AI + Rule Based)
 
-**"Sadece kod değil, bir Risk Yönetimi Stratejisi."**
 
 Bu proje, bankacılık işlemlerinde gerçekleşen dolandırıcılık (Fraud) girişimlerini tespit etmek amacıyla geliştirilmiş, **Yapay Zeka** ve **Banka İş Kurallarını (Business Rules)** birleştiren hibrit bir güvenlik sistemidir.
 
